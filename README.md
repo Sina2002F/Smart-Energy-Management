@@ -2,6 +2,9 @@
 
 ---
 
+![photo_2025-02-06_13-06-16](https://github.com/user-attachments/assets/b193a359-6ef1-4123-b569-0cc3ef8a0220)
+
+
 **Smart Energy Management System**  
 A web-based application designed to monitor, manage, and optimize energy consumption (electricity, gas, and water) in smart homes or buildings. This system allows users to track energy usage in real-time, view detailed reports, and receive personalized recommendations to reduce energy consumption and costs. Built with a focus on sustainability and efficiency, this project combines backend data processing with an intuitive frontend interface.
 
