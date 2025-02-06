@@ -21,9 +21,4 @@ A web-based application designed to monitor, manage, and optimize energy consump
 - **Database**: MySQL, PostgreSQL
 - **APIs**: Energy data simulation or integration with IoT devices.
 
-**How to Contribute**:
-- Fork the repository and create a new branch for your feature.
-- Submit a pull request with a detailed description of your changes.
-- Ensure all code follows the project's coding standards.
-
 **License**: MIT License
