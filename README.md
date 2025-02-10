@@ -2,7 +2,7 @@
 
 ---
 
-![Smart Energy Management](https://github.com/user-attachments/assets/ce5ae1ac-baf6-4d7e-80aa-a05acbc09f6d)
+                                                                       ![Smart Energy Management](https://github.com/user-attachments/assets/ce5ae1ac-baf6-4d7e-80aa-a05acbc09f6d)
 
 
 
