@@ -2,7 +2,8 @@
 
 ---
 
-![photo_2025-02-06_13-13-52](https://github.com/user-attachments/assets/99c70551-f8e5-45c1-8050-eaf75a0b8e86)
+![Smart Energy Management](https://github.com/user-attachments/assets/ce5ae1ac-baf6-4d7e-80aa-a05acbc09f6d)
+
 
 
 **Smart Energy Management System**  
