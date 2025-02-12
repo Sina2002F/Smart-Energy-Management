@@ -22,4 +22,33 @@ A web-based application designed to monitor, manage, and optimize energy consump
 - **Database**: MySQL, PostgreSQL
 - **APIs**: Energy data simulation or integration with IoT devices.
 
+
+**Database Schema**:
+
+Tables
+
+- Users:
+
+Stores information about users (e.g., homeowners or administrators).
+
+- Devices:
+
+Stores information about energy-consuming devices (e.g., lights, heaters, pumps).
+
+- EnergyConsumption:
+
+Stores energy consumption data for each device over time.
+
+- Recommendations:
+
+Stores energy-saving recommendations for users.
+
+Relationships
+- A User can have multiple Devices.
+
+- A Device can have multiple EnergyConsumption records.
+
+- A User can have multiple Recommendations.
+
+
 **License**: MIT License
