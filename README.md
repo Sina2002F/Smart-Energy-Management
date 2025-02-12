@@ -29,19 +29,19 @@ Tables
 
 - Users:
 
-Stores information about users (e.g., homeowners or administrators).
+Information about users (e.g., homeowners or administrators).
 
 - Devices:
 
-Stores information about energy-consuming devices (e.g., lights, heaters, pumps).
+Information about energy-consuming devices (e.g., lights, heaters, pumps).
 
 - EnergyConsumption:
 
-Stores energy consumption data for each device over time.
+Energy consumption data for each device over time.
 
 - Recommendations:
 
-Stores energy-saving recommendations for users.
+Energy-saving recommendations for users.
 
 Relationships
 - A User can have multiple Devices.
