@@ -50,5 +50,3 @@ Relationships
 
 - A User can have multiple Recommendations.
 
-
-**License**: MIT License
