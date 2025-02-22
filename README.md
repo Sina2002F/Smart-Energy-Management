@@ -50,6 +50,3 @@ Relationships
 
 - A User can have multiple Recommendations.
 
-
-
-*It is just a university project*
