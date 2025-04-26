@@ -19,7 +19,7 @@ A web-based application designed to monitor, manage, and optimize energy consump
 **Technologies Used**:
 - **Frontend**: React.js (with Material-UI for styling).
 - **Backend**: Python , Node.js
-- **Database**: MySQL
+- **Database**: MySQL , CSV
 - **APIs**: Energy data simulation or integration with IoT devices.
 
 
