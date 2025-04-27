@@ -6,7 +6,7 @@ from Houses import *
 from Devices import *
 
 root = ctk.CTk()
-root.title("Home Management System")
+root.title("Smart Energy Management")
 root.geometry("400x300")
 root.configure(bg="#f4f5f7")
 
