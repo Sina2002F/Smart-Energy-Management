@@ -8,13 +8,7 @@ class Device:
     device_details = csvh.CSV_Handler.loadDevices()
     # format = {"device_id" : {"name" : <> , "type" : <>, "status" : <> , "attributes" :{"attribute1" : "status","attribute2":"status"}}}
 
-    def __init__(self, name, device_type):
-        self.name = name
-        self.device_id = str(uuid.uuid4())
-        self.type = device_type
-        self.status = "off"
-        self.automation_rules = []
-
+   
     def status_report(self):
         return {
             "name": self.name,
