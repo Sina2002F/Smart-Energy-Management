@@ -21,6 +21,7 @@ A web-based application designed to monitor, manage, and optimize energy consump
 - **Backend**: Python , Node.js
 - **Database**: MySQL , CSV
 - **APIs**: Energy data simulation or integration with IoT devices.
+- **Report section can be added in the future.
 
 
 **Database Schema**:
