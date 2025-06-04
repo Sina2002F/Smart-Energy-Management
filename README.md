@@ -44,7 +44,7 @@ Energy consumption data for each device over time.
 
 Energy-saving recommendations for users.
 
-Relationships
+Relationships:
 - A User can have multiple Devices.
 
 - A Device can have multiple EnergyConsumption records.
