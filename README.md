@@ -34,7 +34,7 @@ Information about users (e.g., homeowners or administrators).
 
 - Devices:
 
-Information about energy-consuming devices (e.g., lights, heaters, pumps).
+Information about energy-consuming devices (e.g., lights, thermostats, pumps).
 
 - EnergyConsumption:
 
