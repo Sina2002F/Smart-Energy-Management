@@ -159,3 +159,5 @@ class Bathroom(Houses):
     
     def remove_device(self, house_id, device_id):
         return super().remove_device(house_id, "Bathroom", device_id)'''
+
+
