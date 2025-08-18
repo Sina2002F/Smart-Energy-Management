@@ -1,4 +1,4 @@
-import customtkinter as ctk
+
 import tkinter as TK
 from tkinter import messagebox , Scrollbar , Canvas
 import csv as csv
@@ -1407,4 +1407,5 @@ class GUI:
 
     def delete_device(self):
         pass
+
 
